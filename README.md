@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R0-514
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning Manipal Institute Of Technology
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me, ping me on my mail
